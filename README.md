@@ -4,4 +4,4 @@
 
 ![Progress](http://progressed.io/bar/0?title=preparing)
 
-[update this page](https://github.com/andywimmer/lunchlinestatus.cf/edit/master/README.md)
+<a href="https://github.com/andywimmer/lunchlinestatus.cf/edit/master/README.md" class="btn btn-github"><span class="icon"></span>update me</a>
