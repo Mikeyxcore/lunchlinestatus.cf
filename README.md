@@ -6,6 +6,6 @@
 - update [20?title=preparing] below accordingly
 -->
 
-![Progress](http://progressed.io/bar/33?title=serving)
+![Progress](http://progressed.io/bar/100?title=consumed)
 
 <a href="https://github.com/andywimmer/lunchlinestatus.cf/edit/master/README.md" class="btn btn-github"><span class="icon"></span>update me</a>
